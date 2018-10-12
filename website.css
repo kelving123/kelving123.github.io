@@ -8,7 +8,7 @@ body {
   font-size: 90px;
   letter-spacing: 7px;
   text-shadow: 4px 4px #333333;
-  padding-top: 100px;
+  
 }
 .page_cont{
   width: 100%;
@@ -50,7 +50,7 @@ body { background-image: url('https://static.pexels.com/photos/52910/pexels-phot
 }
 .Custom{
   color: red;
-  padding-top: 150px;
+  
 }
 img.resize{
   display: block;
